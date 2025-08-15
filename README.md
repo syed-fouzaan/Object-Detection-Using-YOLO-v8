@@ -140,5 +140,5 @@ License
 Distributed under the MIT License. See LICENSE for more information.
 
 Contact
-Your Name - abhinavkumarsaksena@gmail.com
+Your Name -syedfouzaan00@gmail.com
 
